@@ -1,4 +1,4 @@
-Readme: TempMonitor to file --> Caner Aydin 2019
+# Readme: TempMonitor to file --> Caner Aydin 2019
 
 I have built this code for,
 1) fetching latest temperature data from iStatistica for Mac API (in JSON)
